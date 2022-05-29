@@ -20,13 +20,9 @@
 ![image](https://user-images.githubusercontent.com/79851078/170859379-42188c2e-31e9-4cd9-ba49-b676a1a57a6a.png)
 
 
-
-```
-Markup :  # TECH USED #
+# TECH USED #
 
   1. NODE JS
   2. EXPRESS JS
   3. POSTGRESQL
   4. HEROKU
-
-Markup :  =============
