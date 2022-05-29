@@ -24,7 +24,7 @@
 
 [```https://bottask1.herokuapp.com/api/search?q=maharastra&limit=2&offset=1```](https://bottask1.herokuapp.com/api/search?q=MAHARASTRA&limit=2&offset=1)
 
-![image](https://user-images.githubusercontent.com/79851078/170859379-42188c2e-31e9-4cd9-ba49-b676a1a57a6a.png)
+![image](https://user-images.githubusercontent.com/79851078/170859925-ede43b25-ec7d-4ac9-b8e2-330a1c4ec7dc.png)
 
 ---
 
